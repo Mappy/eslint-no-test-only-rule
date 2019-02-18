@@ -1,8 +1,9 @@
 {
   "name": "eslint-plugin-test-no-only",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint rules to avoid test.only",
   "main": "index.js",
+  "keywords": [ "eslint", "eslintplugin", "eslint-plugin", "jest" ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
