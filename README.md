@@ -1,4 +1,4 @@
-= eslint-plugin-test-no-only =
+# eslint-plugin-test-no-only
 
 That eslint plugin add rules to detect `test.only` or `describe.only`.
 
